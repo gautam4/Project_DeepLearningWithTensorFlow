@@ -3,4 +3,4 @@
 ## Introduction
 * This project implements a TensorFlow solution to an image classification problem
 
-## Projected Completion: 07/13/2019
+## Projected Completion: 07/16/2019
