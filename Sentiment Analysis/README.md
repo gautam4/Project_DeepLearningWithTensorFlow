@@ -3,4 +3,4 @@
 ## Introduction
 * This project implements a TensorFlow solution to sentiment analysis
 
-## Projected Completion: 08/26/2019
+## Projected Completion: 09/05/2019
