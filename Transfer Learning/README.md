@@ -3,4 +3,4 @@
 ## Introduction
 * This project implements a TensorFlow solution to Transfer Learning
 
-## Projected Completion: 09/05/2019
+## Projected Completion: 10/15/2019
